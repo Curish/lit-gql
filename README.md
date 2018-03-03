@@ -58,4 +58,5 @@ yarn dev
 ## Endpoints
 
 * HTTP: https://us1.prisma.sh/joe-piemeisel/lit-gql/dev
-* WS: wss://us1.prisma.sh/joe-piemeisel/lit-gql/dev
+* Websocket: wss://us1.prisma.sh/joe-piemeisel/lit-gql/dev
+* Now: https://lit-gql-jwvgchfgmq.now.sh/
